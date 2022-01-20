@@ -1,0 +1,17 @@
+div[id=help] {
+	padding: 0 1em;
+	display: inline-block;
+	vertical-align: top;
+	border: 1px solid black;
+	margin-left: 0; 
+	margin-top: 1em;
+	font-size: 80%;
+	width: 30%; }
+div[id=help] p {
+	margin-bottom: 0; }
+div[id=help] ul {
+	margin-top: 0;
+	padding-left:2em; }
+div[id=help] ul li {
+    word-break: break-word;
+}

@@ -1,0 +1,16 @@
+fieldset[class="varboxes"] {
+	display:inline-block; }
+fieldset[class="varboxes"] label {
+	margin-right:1em; }
+input[type="text"] {
+	margin-left:0.25em; }
+fieldset[class="varboxes"] {
+	margin-top:0.5em; }
+input[name="syr"], input[name="eyr"]  {
+	margin-top:0.5em;
+	margin-right: 1em; }
+button[class=inputButtons] {
+	margin-right: 0.5em;
+	margin-top: 1em; }
+div[class=yearInput] {
+	margin-top: 0.25em; }

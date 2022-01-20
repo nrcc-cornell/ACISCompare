@@ -1,0 +1,26 @@
+div[id=results] table {
+	border:1px solid black;
+	border-collapse:collapse;
+	margin-top: 1em;
+	margin-right: 1em;
+	display:inline-block;
+	table-layout:fixed;
+	vertical-align: top; }
+div[id=results] tr th, tr td {
+	text-align:center;
+	padding: 0 3px; }
+div[id=results] tbody tr:nth-child(odd) {
+	background-color: powderblue; }
+div[id=results] .lb {
+	border-left:1pt solid black; }
+div[id=results] .rb {
+	border-right:1pt solid black; }
+div[id=results] .same { 
+	color: black;
+	font-weight: normal; }
+div[id=results] .diff {
+	color: red;
+	font-weight: 600; }
+div[id=results] .acisdiff {
+	color: orangered;
+	font-weight: 600; }

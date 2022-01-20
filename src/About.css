@@ -1,0 +1,17 @@
+div[id=about] {
+	padding: 0 1em 0;
+	border: 1px solid black;
+	margin-left: 0; 
+	margin-top: 1em;
+	font-size: 90%;
+	width: 100%;
+	max-width: 480px; }
+div[id=about] p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em; }
+div[id=about] ul {
+	margin-top: 0;
+    padding-right :2em;
+	padding-left: 2em; }
+div[id=about] ul li {
+    word-break: break-word; }

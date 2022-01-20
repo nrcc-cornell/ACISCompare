@@ -1,0 +1,1 @@
+export const circle = '<?xml version="1.0" encoding="UTF-8"?><svg width="12px" height="12px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><circle cx="6" cy="6" r="5" stroke="black" stroke-width="1" fill="blue"/></svg>'
