@@ -87,7 +87,7 @@ const determineBbox = (srchCenter, srchRadius) => {
   export function doLocationSearch(srchName, srchRadius=defaultRadius) {
 	return new Promise((resolve, reject) => {
 		const url = "https://www.mapquestapi.com/geocoding/v1/address?location=" + srchName + 
-				"&inFormat=kvp&outFormat=json&thumbMaps=false&key=RrK7pA4HaZD1m3lTTfxG9wyOXJtwf2e4"
+				"&inFormat=kvp&outFormat=json&thumbMaps=false&key=23xBPHxjbCBbyQJTUPE5KYgF080oICsh"
 		axios
 			.get(url, {responseType: "json"})
 			.then(data => {
